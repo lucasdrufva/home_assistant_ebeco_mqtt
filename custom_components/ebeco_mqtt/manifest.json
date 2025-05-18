@@ -1,0 +1,10 @@
+{
+    "domain": "ebeco_mqtt",
+    "name": "Ebeco MQTT",
+    "version": "0.1.0",
+    "documentation": "https://github.com/lucasdrufva/home_assistant_ebeco_mqtt",
+    "codeowners": ["@lucasdrufva"],
+    "requirements": [],
+    "config_flow": true,
+    "dependencies": ["mqtt"]
+  }

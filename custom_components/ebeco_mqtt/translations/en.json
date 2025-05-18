@@ -1,0 +1,10 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Setup Ebeco MQTT",
+                "description": "No options to configure."
+            }
+        }
+    }
+}
