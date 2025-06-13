@@ -85,7 +85,7 @@ The module trusts DigiCert Global Root G2. If your MQTT broker already uses a ce
 9. **Write patched OTA image:**
 
    ```bash
-   otatool.py --port [SERIAL_PORT] --slot 0 --input ota_0_patched.bin
+   otatool.py write_ota_partition --port [SERIAL_PORT] --slot 0 --input ota_0_patched.bin
    ```
 
 10. **Activate the new OTA partition:**
